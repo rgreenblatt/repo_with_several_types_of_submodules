@@ -1,0 +1,2 @@
+# repo_with_several_types_of_submodules
+For testing github_net
